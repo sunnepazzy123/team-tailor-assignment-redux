@@ -1,6 +1,6 @@
 import React from 'react'
-import {Row, Col, Button} from "react-bootstrap"
-import {Link} from "react-router-dom"
+import {Row, Col,} from "react-bootstrap"
+
 
 const DocScreen = () => {
     return (
@@ -10,7 +10,7 @@ const DocScreen = () => {
                 <Col>
                     <p>Click the button below to view the Documentation</p>
                     <div>
-                     <a target="_blank" className="btn btn-primary" href="https://meetflo.zendesk.com/hc/en-us/articles/230425728-Privacy-Policies">View Docs</a>
+                     <a target="_blank" className="btn btn-primary" href="https://github.com/sunnepazzy123/team-tailor-assignment-redux">View Docs</a>
 
                     </div>
 
